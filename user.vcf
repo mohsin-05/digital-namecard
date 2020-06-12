@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Mohsin;Khan;;;
+FN: Mohsin  Khan 
+ORG:Zenith;
+TITLE:Medical Representative\The Himalaya Drug Co., Zenith Division
+EMAIL;type=INTERNET;type=WORK;type=pref:mohsinkhan6878@gmail.com
+TEL;type=WORK;type=VOICE:+91 8888887254
+item1.ADR;type=WORK;type=pref:;;Flat no.302 Kalpatru Enclave\nnear Automotive Square\, 09-01;;;440026;Nagpur
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:kcserv.net
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
